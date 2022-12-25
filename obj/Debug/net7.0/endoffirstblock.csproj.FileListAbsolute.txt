@@ -1,0 +1,15 @@
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\bin\Debug\net7.0\endoffirstblock.exe
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\bin\Debug\net7.0\endoffirstblock.deps.json
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\bin\Debug\net7.0\endoffirstblock.runtimeconfig.json
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\bin\Debug\net7.0\endoffirstblock.dll
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\bin\Debug\net7.0\endoffirstblock.pdb
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.csproj.AssemblyReference.cache
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.AssemblyInfoInputs.cache
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.AssemblyInfo.cs
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.csproj.CoreCompileInputs.cache
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.dll
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\refint\endoffirstblock.dll
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.pdb
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\endoffirstblock.genruntimeconfig.cache
+C:\Users\d.dolganin\Desktop\Lesson333\endoffirstblock\obj\Debug\net7.0\ref\endoffirstblock.dll
