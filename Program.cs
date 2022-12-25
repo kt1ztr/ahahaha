@@ -15,7 +15,7 @@ void FillArray(string[] array)
         array[i] = Console.ReadLine();
     }
 }
-   void PtintArray(string[] array)
+void PtintArray(string[] array)
 {
     int i = 0;
     for (i = 0; i < array.Length-1; i++)  
@@ -24,7 +24,6 @@ void FillArray(string[] array)
     }
     Console.WriteLine(array[i]);
 }
-
 string[] Array3symb(string[] array)
 {
     int count = 0;
@@ -36,10 +35,10 @@ string[] Array3symb(string[] array)
             count++;
         }
     }
-    string[] array_res = new string[count];
+    string[] array_final = new string[count];
     for (int j = 0; j < count; j++) 
     {
-        array_res[j] = array[j];
+        array_final[j] = array[j];
     }
-    return array_res;
+    return array_final;
 }
